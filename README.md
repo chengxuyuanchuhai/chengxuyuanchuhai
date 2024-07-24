@@ -5,7 +5,7 @@
 - 如发现有问题或需要更新的，请提 issue，我们会更新。谢谢！
 
 
-**程序员出海官网** https://chengxuyuanchuhai.com/
+**程序员出海官网：** https://chengxuyuanchuhai.com/
 
 <!---
 chengxuyuanchuhai/chengxuyuanchuhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
