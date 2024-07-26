@@ -1,3 +1,6 @@
+### Hi there  🌅
+
+
 # 程序员出海社群 Github仓库
 
 ## 仓库说明
@@ -13,7 +16,12 @@ UncleLeon认为，2023-24年大模型AI技术的狂飙猛进带来了新的机�
 
 
 
+
+✍创作不易，求关注😄，点赞👍，收藏⭐️
+
 <!---
 chengxuyuanchuhai/chengxuyuanchuhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
